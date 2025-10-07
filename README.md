@@ -1,4 +1,4 @@
-# 🧠 Machine Learning Algorithms — From Scratch
+# 🧠Statistical Machine Learning Algorithms — From Scratch
 
 A modular collection of **machine learning algorithms implemented from scratch in Python**.  
 This repository is focused on understanding _how algorithms work internally_, from the underlying math to code implementation — without using high-level ML libraries like scikit-learn.
